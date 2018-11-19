@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.ArrayList;
 
-public class CopyText {
+public class Main {
     public static void main(String[] args) throws InterruptedException {
 
         ArrayList<String> arrayList = new ArrayList<String>();
